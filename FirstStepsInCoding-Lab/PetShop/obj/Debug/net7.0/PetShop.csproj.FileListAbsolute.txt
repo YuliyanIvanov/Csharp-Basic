@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\bin\Debug\net7.0\PetShop.exe
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\bin\Debug\net7.0\PetShop.deps.json
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\bin\Debug\net7.0\PetShop.runtimeconfig.json
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\bin\Debug\net7.0\PetShop.dll
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\bin\Debug\net7.0\PetShop.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.AssemblyInfo.cs
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.dll
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\refint\PetShop.dll
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\PetShop.genruntimeconfig.cache
+C:\Users\Samae\source\repos\HelloSoftUni\PetShop\obj\Debug\net7.0\ref\PetShop.dll

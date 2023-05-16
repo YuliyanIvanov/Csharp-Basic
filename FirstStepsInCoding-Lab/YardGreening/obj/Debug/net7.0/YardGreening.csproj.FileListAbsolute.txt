@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\bin\Debug\net7.0\YardGreening.exe
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\bin\Debug\net7.0\YardGreening.deps.json
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\bin\Debug\net7.0\YardGreening.runtimeconfig.json
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\bin\Debug\net7.0\YardGreening.dll
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\bin\Debug\net7.0\YardGreening.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.AssemblyInfo.cs
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.dll
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\refint\YardGreening.dll
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\YardGreening.genruntimeconfig.cache
+C:\Users\Samae\source\repos\HelloSoftUni\YardGreening\obj\Debug\net7.0\ref\YardGreening.dll

@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net7.0\04.VacationBooksList.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net7.0\04.VacationBooksList.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net7.0\04.VacationBooksList.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net7.0\04.VacationBooksList.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net7.0\04.VacationBooksList.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\refint\04.VacationBooksList.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\04.VacationBooksList.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net7.0\ref\04.VacationBooksList.dll

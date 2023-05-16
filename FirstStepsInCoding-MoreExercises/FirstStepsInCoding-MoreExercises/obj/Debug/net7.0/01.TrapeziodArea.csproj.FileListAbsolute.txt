@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\01.TrapeziodArea.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\01.TrapeziodArea.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\01.TrapeziodArea.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\01.TrapeziodArea.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\01.TrapeziodArea.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\refint\01.TrapeziodArea.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\01.TrapeziodArea.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\ref\01.TrapeziodArea.dll

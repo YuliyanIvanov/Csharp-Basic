@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net7.0\07.FoodDelivery.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net7.0\07.FoodDelivery.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net7.0\07.FoodDelivery.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net7.0\07.FoodDelivery.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net7.0\07.FoodDelivery.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\refint\07.FoodDelivery.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\07.FoodDelivery.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net7.0\ref\07.FoodDelivery.dll

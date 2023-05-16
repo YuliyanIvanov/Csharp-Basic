@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\bin\Debug\net7.0\Num1To10.exe
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\bin\Debug\net7.0\Num1To10.deps.json
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\bin\Debug\net7.0\Num1To10.runtimeconfig.json
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\bin\Debug\net7.0\Num1To10.dll
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\bin\Debug\net7.0\Num1To10.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.AssemblyInfo.cs
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.dll
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\refint\Num1To10.dll
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\Num1To10.genruntimeconfig.cache
+C:\Users\Samae\source\repos\HelloSoftUni\Num1To10\obj\Debug\net7.0\ref\Num1To10.dll

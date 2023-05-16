@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\bin\Debug\net7.0\05.SuppliesForSchool.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\bin\Debug\net7.0\05.SuppliesForSchool.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\bin\Debug\net7.0\05.SuppliesForSchool.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\bin\Debug\net7.0\05.SuppliesForSchool.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\bin\Debug\net7.0\05.SuppliesForSchool.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\refint\05.SuppliesForSchool.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\05.SuppliesForSchool.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\05.SuppliesForSchool\obj\Debug\net7.0\ref\05.SuppliesForSchool.dll

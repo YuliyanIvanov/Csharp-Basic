@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\FirstStepsInCoding-MoreExercises.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\FirstStepsInCoding-MoreExercises.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\FirstStepsInCoding-MoreExercises.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\FirstStepsInCoding-MoreExercises.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\bin\Debug\net7.0\FirstStepsInCoding-MoreExercises.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\refint\FirstStepsInCoding-MoreExercises.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\FirstStepsInCoding-MoreExercises.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\FirstStepsInCoding-MoreExercises\obj\Debug\net7.0\ref\FirstStepsInCoding-MoreExercises.dll

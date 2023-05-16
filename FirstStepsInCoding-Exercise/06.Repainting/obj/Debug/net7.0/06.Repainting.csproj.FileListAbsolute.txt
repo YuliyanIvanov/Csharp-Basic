@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net7.0\06.Repainting.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net7.0\06.Repainting.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net7.0\06.Repainting.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net7.0\06.Repainting.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net7.0\06.Repainting.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\refint\06.Repainting.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\06.Repainting.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net7.0\ref\06.Repainting.dll

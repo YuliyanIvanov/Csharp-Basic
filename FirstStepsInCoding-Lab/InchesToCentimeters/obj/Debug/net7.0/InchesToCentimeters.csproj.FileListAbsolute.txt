@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\bin\Debug\net7.0\InchesToCentimeters.exe
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\bin\Debug\net7.0\InchesToCentimeters.deps.json
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\bin\Debug\net7.0\InchesToCentimeters.runtimeconfig.json
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\bin\Debug\net7.0\InchesToCentimeters.dll
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\bin\Debug\net7.0\InchesToCentimeters.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.AssemblyInfo.cs
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.dll
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\refint\InchesToCentimeters.dll
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\InchesToCentimeters.genruntimeconfig.cache
+C:\Users\Samae\source\repos\HelloSoftUni\InchesToCentimeters\obj\Debug\net7.0\ref\InchesToCentimeters.dll

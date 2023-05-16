@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net7.0\09.FishTank.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net7.0\09.FishTank.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net7.0\09.FishTank.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net7.0\09.FishTank.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net7.0\09.FishTank.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\refint\09.FishTank.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\09.FishTank.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net7.0\ref\09.FishTank.dll

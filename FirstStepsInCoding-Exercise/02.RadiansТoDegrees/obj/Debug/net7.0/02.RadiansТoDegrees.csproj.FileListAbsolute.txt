@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\bin\Debug\net7.0\02.RadiansТoDegrees.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\bin\Debug\net7.0\02.RadiansТoDegrees.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\bin\Debug\net7.0\02.RadiansТoDegrees.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\bin\Debug\net7.0\02.RadiansТoDegrees.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\bin\Debug\net7.0\02.RadiansТoDegrees.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\refint\02.RadiansТoDegrees.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\02.RadiansТoDegrees.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\02.RadiansТoDegrees\obj\Debug\net7.0\ref\02.RadiansТoDegrees.dll

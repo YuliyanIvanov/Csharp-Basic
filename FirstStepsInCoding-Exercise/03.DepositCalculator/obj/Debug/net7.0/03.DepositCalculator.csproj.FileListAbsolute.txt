@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\net7.0\03.DepositCalculator.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\net7.0\03.DepositCalculator.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\net7.0\03.DepositCalculator.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\net7.0\03.DepositCalculator.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\net7.0\03.DepositCalculator.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\refint\03.DepositCalculator.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\03.DepositCalculator.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\net7.0\ref\03.DepositCalculator.dll

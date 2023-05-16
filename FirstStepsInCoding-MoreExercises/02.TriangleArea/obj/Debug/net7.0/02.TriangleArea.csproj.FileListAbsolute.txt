@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\bin\Debug\net7.0\02.TriangleArea.exe
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\bin\Debug\net7.0\02.TriangleArea.deps.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\bin\Debug\net7.0\02.TriangleArea.runtimeconfig.json
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\bin\Debug\net7.0\02.TriangleArea.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\bin\Debug\net7.0\02.TriangleArea.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.AssemblyInfo.cs
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\refint\02.TriangleArea.dll
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.pdb
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\02.TriangleArea.genruntimeconfig.cache
+C:\Users\Samae\source\repos\FirstStepsInCoding-MoreExercises\02.TriangleArea\obj\Debug\net7.0\ref\02.TriangleArea.dll

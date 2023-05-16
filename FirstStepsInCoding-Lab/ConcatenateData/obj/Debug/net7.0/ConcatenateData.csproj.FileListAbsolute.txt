@@ -1,0 +1,15 @@
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.csproj.AssemblyReference.cache
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.AssemblyInfo.cs
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\bin\Debug\net7.0\ConcatenateData.exe
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\bin\Debug\net7.0\ConcatenateData.deps.json
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\bin\Debug\net7.0\ConcatenateData.runtimeconfig.json
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\bin\Debug\net7.0\ConcatenateData.dll
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\bin\Debug\net7.0\ConcatenateData.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.dll
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\refint\ConcatenateData.dll
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.pdb
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ConcatenateData.genruntimeconfig.cache
+C:\Users\Samae\source\repos\HelloSoftUni\ConcatenateData\obj\Debug\net7.0\ref\ConcatenateData.dll
