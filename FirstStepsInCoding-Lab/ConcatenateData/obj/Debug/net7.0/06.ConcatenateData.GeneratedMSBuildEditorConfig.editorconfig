@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 06.ConcatenateData
-build_property.ProjectDir = C:\Users\Samae\source\repos\FirstStepsInCoding-Lab\ConcatenateData\
+build_property.ProjectDir = /home/bonedevil/Public/Java 2023/Csharp-Basic/FirstStepsInCoding-Lab/ConcatenateData/
